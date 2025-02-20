@@ -9,8 +9,7 @@
 ## Live Demo
 
 You can view the live demo of this portfolio website on Netlify:
-<br>
-Netlify: [Portfolio Website](https://ritoncharlox-portfolio-website.netlify.app/)
+<
 
 ## Pages
 
@@ -48,8 +47,6 @@ Netlify: [Portfolio Website](https://ritoncharlox-portfolio-website.netlify.app/
 To use this portfolio template for your own portfolio:
 
 1. Clone this repository to your local machine.
-```bash
-git clone https://github.com/ritoncharlox/Responsive-Portfolio-Website.git
 ```
 2. Customize the content of each page to reflect your own career, education, skills, etc.
 3. If you want to use the contact form functionality:
